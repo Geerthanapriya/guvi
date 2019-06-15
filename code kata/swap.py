@@ -1,5 +1,5 @@
 x,y=map(int,input().split())
-t=x
+te=x
 x=y
-y=t
+y=te
 print(x,y)
