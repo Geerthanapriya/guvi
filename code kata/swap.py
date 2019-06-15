@@ -1,5 +1,5 @@
-a,b=map(int,input().split())
-temp=a
-a=b
-b=temp
-print(a,b)
+x,y=map(int,input().split())
+t=x
+x=y
+y=t
+print(x,y)
