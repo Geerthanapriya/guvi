@@ -1,0 +1,5 @@
+num=int(input())
+k=list(map(int,input().split()))
+lowest=min(k)
+highest=max(k)
+print(lowest,highest)
