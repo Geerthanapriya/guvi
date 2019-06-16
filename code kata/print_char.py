@@ -1,4 +1,4 @@
-k,n=map(str,input().split())
-nu=int(n)
-ch=k[:nu]
+k,nu=map(str,input().split())
+num=int(nu)
+ch=k[:num]
 print(ch)
