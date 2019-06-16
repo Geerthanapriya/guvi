@@ -1,2 +1,4 @@
-Str1,str2=map(str,input().split())
-print(S[0:int(str1)])
+k,n=map(str,input().split())
+nu=int(n)
+ch=k[:nu]
+print(ch)
