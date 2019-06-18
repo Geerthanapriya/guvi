@@ -1,5 +1,8 @@
+import math
 num1,num2=map(int,input().split())
-if(num1==num2):
-  print('yes')
+number=num1*num2
+root = math.sqrt(number)
+if int(root + 0.5) ** 2 == number:
+    print('yes')
 else:
-  print('no')
+    print('no')
