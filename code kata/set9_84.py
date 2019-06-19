@@ -1,2 +1,2 @@
-num=input()
-print(ord(num))
+numeric=input()
+print(ord(numeric))
