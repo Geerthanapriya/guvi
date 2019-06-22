@@ -1,3 +1,3 @@
-a,b=map(str,input().split())
-b=int(b)
-print(a[-b:])
+st,num=map(str,input().split())
+num=int(num)
+print(st[-num:])
