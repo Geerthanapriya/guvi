@@ -1,2 +1,2 @@
-N,K=map(int,input().split())
-print(N**K)
+Ni,Ki=map(int,input().split())
+print(Ni**Ki)
