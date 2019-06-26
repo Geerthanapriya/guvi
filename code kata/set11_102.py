@@ -1,4 +1,4 @@
-num=int(input())
-while(num%2==0):
-  num=num//2
-print(num)
+numeric=int(input())
+while(numeric%2==0):
+  numeric=numeric//2
+print(numeric)
