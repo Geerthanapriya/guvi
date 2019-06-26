@@ -1,2 +1,2 @@
-N,K=map(str,input().split())
-print(N+K)
+Ni,Ki=map(str,input().split())
+print(Ni+Ki)
