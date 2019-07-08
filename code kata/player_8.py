@@ -1,2 +1,2 @@
-n1=input()
-print(n1.title())
+nu1=input()
+print(nu1.title())
